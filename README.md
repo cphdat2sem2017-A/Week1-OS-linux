@@ -9,6 +9,7 @@ Tutorials:
 * Create server: <https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server>
 * Log in with PUTTY: <https://www.digitalocean.com/community/tutorials/how-to-log-into-your-droplet-with-putty-for-windows-users>
 * Initial setup: <https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04>
+* Set timezone: <https://www.server-world.info/en/note?os=Ubuntu_16.04&p=timezone>
 * Create SSH keys: <https://www.digitalocean.com/community/tutorials/how-to-create-ssh-keys-with-putty-to-connect-to-a-vps>
 * Use SSH keys to login: <https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-putty-on-digitalocean-droplets-windows-users>
 
