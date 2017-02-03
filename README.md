@@ -50,6 +50,7 @@ Tutorial:
 Readings:
 
 * Installing tomcat: <https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04>
+* Alternative: <http://www.ubuntugeek.com/install-tomcat-8-on-ubuntu-15-04-server.html>
 
 ##Day 5 (Friday) - Studypoint exercise
 
