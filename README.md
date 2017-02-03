@@ -15,8 +15,6 @@ Tutorials:
 Readings:
 
 * <http://ryanstutorials.net/linuxtutorial/>
-* <http://ryanstutorials.net/linuxtutorial/commandline.php>
-* <http://ryanstutorials.net/linuxtutorial/cheatsheet.php>
 * Nano: <http://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor>
 * Nano: <http://www.tutorialspoint.com/unix_commands/nano.htm>
 
