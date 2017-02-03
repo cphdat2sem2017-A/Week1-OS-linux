@@ -1,4 +1,3 @@
-![Alt text](img/lotussm.png)
 # 1 week of the 2nd semester
 Topics: Operatingsystems & Linux, Webserver og MySQL in the cloud
 
