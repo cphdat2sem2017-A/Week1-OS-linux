@@ -41,9 +41,8 @@ We will setup MySQL on the ubunto server, set up users on MySQL with different r
 
 * [Exercises](study/day3exercises.md)
 
-Readings:
-
-* Installing MySQL: <https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-14-04>
+Tutorial:
+* Install MySQL: <https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04>
 
 ##Day 4 (Thursday) - Tomcat
 
