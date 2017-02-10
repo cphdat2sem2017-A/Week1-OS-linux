@@ -54,6 +54,6 @@ Readings:
 
 ##Day 5 (Friday) - Studypoint exercise
 
-* Full assignment - see [study/studypointExercise.md](study/studypointExercise.md)
+* Full assignment - see [studypointExercise.md](studypointExercise.md)
 
 
