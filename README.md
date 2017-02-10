@@ -54,6 +54,6 @@ Readings:
 
 ##Day 5 (Friday) - Studypoint exercise
 
-* Full assignment - see [studypointExercise.md](studypointExercise.md)
+* Full assignment - see [https://github.com/cphdat2sem2017-A/os-linux/blob/master/StudyExerciseA.md](studypointExercise.md)
 
 
