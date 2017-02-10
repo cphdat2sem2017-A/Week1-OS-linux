@@ -26,7 +26,7 @@ Add a database user named "reader" with the password "bookworm#17laesehest" whic
 
 
 #Handin instructions
-You need to hand in by writing an email to **koe@cphbusiness.dk** no later than Sunday 12th of February 2017 at 16:00.
+You need to hand in by writing an email to **tog@cphbusiness.dk** no later than Sunday 12th of February 2017 at 16:00.
 
 The email should contain the following information
 
